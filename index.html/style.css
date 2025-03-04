@@ -1,0 +1,30 @@
+*{
+    cursor: url('free-icon-cursor-304000.png'), pointer;
+}
+
+
+body {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+     url('bfbe0f3a-82e9-4fb4-95a5-c55c89e23081.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: top;
+    font-family: Arial, sans-serif;
+}
+    
+
+h1, h2, p {
+color: rgb(255, 255, 255);
+line-height: 1.5;
+margin: 15px;
+font-family: Comic Sans MS, Comic Sans, cursive;}
+
+.leftimg {
+    float:left; 
+    margin: 7px 7px 7px 0; 
+   }
+   .rightimg  {
+    float: right; 
+    margin: 7px 0 7px 7px;
+  }
